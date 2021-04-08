@@ -3,7 +3,7 @@
 ### Einfache Korrekturen
 
 #### Korrigiere diese Mathe-Aufgabe:
-3 x 3 = 4
+3 x 3 = 8
 
 #### Entferne dieses Wort:
 Löschen
